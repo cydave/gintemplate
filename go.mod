@@ -3,6 +3,7 @@ module github.com/cydave/gintemplate
 go 1.22.5
 
 require (
+	github.com/cydave/staticfs v0.0.0-20241007083920-347f6bd14e69
 	github.com/gin-gonic/gin v1.10.0
 	github.com/mattn/go-sqlite3 v1.14.16
 	github.com/spf13/viper v1.19.0
